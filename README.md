@@ -1,1 +1,1 @@
-# courser-react
+# coding-project-template
